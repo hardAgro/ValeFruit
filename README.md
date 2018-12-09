@@ -13,7 +13,7 @@
 1. Clone o projeto
 2. Tendo todos pré-requesitos instalados execute o script Python servidor.py no sistema computacional fixo no parreiral, que contenha uma câmera
 3. É necessário configurar o IP e porta que o sistema vai ficar acessível pelo sistema supervisor escrito em Java na linha 155
-4. 
+4. No servidor java escrito na pasta Projeto é necessário configurar o IP atribuído na rede ao sistema computacional, no arquivo Projeto/ValeFruit/src/main/java/br/edu/univasf/controller/HomeBean.java
 
 ## Features APP
 1. Tira foto por um sistema computacional fixo no parreiral
