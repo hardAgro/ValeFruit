@@ -1,0 +1,102 @@
+@Charset "utf-8";
+
+body {
+	font-size: 12px;
+	font-family: Arial, Helvica, sans-serif;
+	margin: 0px;
+	font-weight: normal;
+}
+
+header {
+	padding: 5px 0px;
+	margin-bottom: 20px;
+	height: 30px;
+	background-color: #034f84;
+	color: #fff;
+	box-shadow: 0px 2px 2px #ccc;
+}
+
+header>div {
+	margin-top: 3px;
+	margin-left: 8px;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	padding: 8px -1px;
+	background-color: rgba(255, 255, 255, 0.8);
+}
+
+.menu-sistema {
+	border: 0px !important;
+	padding: 0px !important;
+	background: none !important;
+}
+
+.menu-sistema .ui-menu-parent>a .ui-menuitem-text, .menu-sistema>.ui-menu-list>.ui-menuitem>a>.ui-menuitem-text
+	{
+	color: #ffffff !important;
+}
+
+.menu-sistema .ui-icon-triangle-1-s {
+	background: url(#{ resource [ 'imagens:seta-para-baixo.png' ]
+}
+
+)
+no-repeat
+;
+}
+.colunaLabels {
+	width: 150px;
+	text-align: center;
+}
+
+.div-botoes-fim-da-pagina {
+	margin: 0 auto;
+	width: 50%;
+	margin-top: 25px"
+}
+
+.titulo-sistema {
+	float: left;
+	height: 30px;
+	line-height: 30px;
+	margin-right: 600px;
+	color: #fff;
+	font-size: 150%;
+}
+
+.titulos-menus-barra-principal{
+	font-size:120%;
+}
+
+.botoes-dados-usuario {
+	margin-left: 15px;
+	margin-top: 20px;
+	width: 180px;
+	height: 50px;
+	font-size: 15px
+}
+
+.centraliza-texto {
+	text-align: center;
+}
+
+.painel-centralizado {
+	width: 90%;
+	margin: 50px auto;
+}
+
+.texto-centralizado {
+	text-align: center;
+	margin-top: 50px;
+}
+
+.div-botoes-fim-da-pagina {
+	margin: 0 auto;
+	width: 50%;
+	margin-top: 25px"
+}
